@@ -1,0 +1,87 @@
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\student\Рабочий стол\Task1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Margo\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCV.Net.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Margo\Desktop\WindowsFormsApplication1\bin\Debug\OpenCV.Net.xml
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCV.Net.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\bin\Debug\OpenCV.Net.xml
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Margo\Desktop\Mine\Study\4 course\2 term\NeuronNetsTask1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCV.Net.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\bin\Debug\OpenCV.Net.xml
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
