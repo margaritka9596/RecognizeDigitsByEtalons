@@ -21,7 +21,9 @@ namespace WindowsFormsApplication1
         List<int> X = new List<int> { };
         List<double> W = new List<double>();
         Bitmap experimentBitmap;
-        static string pathWMatrix = @"C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\WindowsFormsApplication1\W_array.txt";
+        //static string pathWMatrix = @"C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\W_array.txt";
+        static string pathWMatrix = Application.StartupPath + "W_array.txt";
+        
 
         public Form1()
         {
