@@ -21,7 +21,6 @@ namespace WindowsFormsApplication1
         List<int> X = new List<int> { };
         List<double> W = new List<double>();
         Bitmap experimentBitmap;
-        //static string pathWMatrix = @"C:\Users\Margo\Desktop\Mine\Study\m1_1\2_term\image processing\NeuronNetsTask1From4thCourse\W_array.txt";
         static string pathWMatrix = Application.StartupPath + "W_array.txt";
         
 
@@ -39,18 +38,8 @@ namespace WindowsFormsApplication1
             Graphics g = Graphics.FromImage(img1);
             g.Clear(Color.White);
             g.Dispose();
-
-           /* if (pictureBox1.Image != null)
-                pictureBox1.Image.Dispose();
-
-            pictureBox1.Image = img1;
-
-            if (pictureBox2.Image != null)
-                pictureBox2.Image.Dispose();
-
-            pictureBox2.Image = img1;*/
-
         }
+
         private int[] binarizeBitmap(Bitmap image)
         {
             //задаем значение
@@ -74,6 +63,7 @@ namespace WindowsFormsApplication1
                 }
             return binarized;
          }
+
         private double activationFunc(double x)
         {
             double res = 0, F = 9.9, alpha = 1/2.0;
@@ -90,6 +80,7 @@ namespace WindowsFormsApplication1
             }
             return res;
         }
+
         private void openFileToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.openFileDialog1.Multiselect = true;
@@ -109,9 +100,9 @@ namespace WindowsFormsApplication1
                         Bitmap image = new Bitmap(filename);
 
                         //добавили все эталонные изображения в List<Bitmap>
-                        //filename.Substring(101, filename.Length);
-                        labels.Add(filename.Substring(filename.Length - 5, 1));
                         etalon.Add(image);
+                        //labels - метки в названиях файлов с эталонами. Будут выводиться в качестве названия класса
+                        labels.Add(filename.Substring(filename.Length - 5, 1));
                     }
                     catch (IOException)
                     {
@@ -148,6 +139,7 @@ namespace WindowsFormsApplication1
                     writer.Write("\n");
                 }
             }*/
+
             //Create matrix W
             for (int j = 0; j < M; ++j)
                 for (int i = 0; i < N; ++i)
@@ -201,6 +193,7 @@ namespace WindowsFormsApplication1
                 {
                 }
             }
+
             int[] experiment = binarizeBitmap(experimentBitmap);
 
             //trouble maybe here
@@ -240,12 +233,12 @@ namespace WindowsFormsApplication1
                 }
             }*/
 
-            double eps = 0.05; // 0 <eps< 1/M
+
+            double eps = 1 / (M * 2);// 0.05; // 0 <eps< 1/M
             int deadline = 1;
             int diffComp = deadline + 1;
             int count = 0;
 
-           
             while (diffComp > deadline)
             {
                 diffComp = 0;
